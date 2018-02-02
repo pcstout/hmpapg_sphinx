@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-How to Make a Products Available for Public Good
+How to Make a Product Available for Public Good
 ================================================
 
 .. toctree::
