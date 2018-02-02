@@ -7,7 +7,7 @@ How to Make a Products Available for Public Good
 ================================================
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    sections/purpose_and_objectives/index
