@@ -1,2 +1,2 @@
-sphinx/build/
-sphinx/_static/
+_build/
+_static/

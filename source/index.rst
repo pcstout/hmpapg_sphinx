@@ -10,7 +10,7 @@ How to Make a Product Available for Public Good
    :numbered:
    :caption: Contents:
 
-   sections/purpose_and_objectives/index
-   sections/licenses/index
-   sections/copyright/index
-   sections/publishing/index
+   topics/purpose_and_objectives/index
+   topics/licenses/index
+   topics/copyright/index
+   topics/publishing/index
