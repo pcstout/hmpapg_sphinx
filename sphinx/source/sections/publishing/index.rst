@@ -2,7 +2,6 @@ Publishing
 ++++++++++
 
 .. toctree::
-   :numbered:
    :caption: Contents:
 
    GitHub <github/index>
