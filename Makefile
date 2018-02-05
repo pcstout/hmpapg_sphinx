@@ -22,3 +22,7 @@ help:
 	rm -rf $(DOCS)/*
 	cp -R $(BUILDDIR)/html/* $(DOCS)
 	rm -rf $(DOCS)/_sources
+
+# Watch the $(SOURCEDIR) for changes and run `make html`.
+watch:
+	while true; do inotifywait -r -e "create,modify,move,delete" --exclude .git $(SOURCEDIR); make html; done
